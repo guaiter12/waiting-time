@@ -1,0 +1,74 @@
+{
+  "canzoni": [
+    {
+      "id": 1,
+      "titolo": "Bohemian Rhapsody",
+      "artista": "Queen",
+      "genere": "Rock",
+      "durata": 354
+    },
+    {
+      "id": 2,
+      "titolo": "Blinding Lights",
+      "artista": "The Weeknd",
+      "genere": "Pop",
+      "durata": 200
+    },
+    {
+      "id": 3,
+      "titolo": "Lose Yourself",
+      "artista": "Eminem",
+      "genere": "Rap",
+      "durata": 326
+    },
+    {
+      "id": 4,
+      "titolo": "Smells Like Teen Spirit",
+      "artista": "Nirvana",
+      "genere": "Grunge",
+      "durata": 301
+    },
+    {
+      "id": 5,
+      "titolo": "One More Time",
+      "artista": "Daft Punk",
+      "genere": "Electronic",
+      "durata": 320
+    },
+    {
+      "id": 6,
+      "titolo": "Hotel California",
+      "artista": "Eagles",
+      "genere": "Rock",
+      "durata": 391
+    },
+    {
+      "id": 7,
+      "titolo": "Shape of You",
+      "artista": "Ed Sheeran",
+      "genere": "Pop",
+      "durata": 234
+    },
+    {
+      "id": 8,
+      "titolo": "Rolling in the Deep",
+      "artista": "Adele",
+      "genere": "Soul",
+      "durata": 228
+    },
+    {
+      "id": 9,
+      "titolo": "Billie Jean",
+      "artista": "Michael Jackson",
+      "genere": "Pop",
+      "durata": 294
+    },
+    {
+      "id": 10,
+      "titolo": "Wonderwall",
+      "artista": "Oasis",
+      "genere": "Rock",
+      "durata": 258
+    }
+  ]
+}
